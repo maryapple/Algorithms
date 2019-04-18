@@ -130,3 +130,5 @@ function fib(n) {
     }
     return c;
 }
+
+// check
